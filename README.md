@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Anthony Martins de Castro
 
-<!--
-**anthonymcastr/anthonymcastr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** - 3º semestre no SENAC.  
+📍 Tenho 27 anos e estou iniciando minha jornada no desenvolvimento web.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+Tenho conhecimento básico em:
+- **HTML** & **CSS** 
+- **Tailwind CSS**
+- **JavaScript** & **TypeScript** (Extremamente básico 😅)
+
+## 📚 Experiência
+Antes de ingressar no SENAC, realizei alguns projetos iniciais de HTML e CSS com base nos cursos do **Gustavo Guanabara**. Atualmente, estou aprofundando meu conhecimento em desenvolvimento web e explorando novas tecnologias.
+
+## 📫 Contato
+🔗 [https://br.linkedin.com/in/anthony-martins-de-castro-32800029b](Linkedin)  
+📧 anthonymartins1997@gmail.com
+
+
+---
+
+Seja bem-vindo ao meu GitHub! 🚀 Sempre aberto a aprender e colaborar. 😃
