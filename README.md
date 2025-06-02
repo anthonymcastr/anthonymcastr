@@ -16,7 +16,7 @@ Antes de ingressar no SENAC, realizei alguns projetos iniciais de HTML e CSS com
 
 ## 📫 Contato
 🔗 [https://br.linkedin.com/in/anthony-martins-de-castro-32800029b](Linkedin)  
-📧 anthonymartins1997@gmail.com
+📧 anthonymartins19977@gmail.com
 
 
 ---
