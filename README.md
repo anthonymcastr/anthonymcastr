@@ -9,7 +9,7 @@
 Tenho conhecimento básico em:
 - **HTML** & **CSS** 
 - **Tailwind CSS**
-- **JavaScript** & **TypeScript** 
+- **Python**, **JavaScript** & **TypeScript** 
 
 ## 📚 Experiência
 Antes de ingressar no SENAC, realizei alguns projetos iniciais de HTML e CSS com base nos cursos do **Gustavo Guanabara**. Atualmente, estou aprofundando meu conhecimento em desenvolvimento web e explorando novas tecnologias.
