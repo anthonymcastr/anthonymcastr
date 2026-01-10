@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** - 4º semestre no SENAC.  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** - 5º semestre no SENAC.  
 📍 Tenho 28 anos e estou iniciando minha jornada no desenvolvimento web.  
 
 ## 🚀 Tecnologias  
